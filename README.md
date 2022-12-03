@@ -5,6 +5,7 @@ on [StyleGAN2-pytorch](https://github.com/rosinality/stylegan2-pytorch).
 
 **Note that** only Overparam. Style Modulation is implemented here, and some implementation details are different from
 the paper.
+![cmp](./cmp.png)
 
 ## Image Inversion
 
